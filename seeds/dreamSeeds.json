@@ -1,13 +1,13 @@
 [
     {
-        "subject": "My WILD Dream",
-        "body": "I had a dream that I fell lmao.",
+        "subject": "The worst phone EVER",
+        "body": "There's no way a phone could get any worse than this!",
         "is_nightmare": true,
         "user_id": 1
     },
     {
-        "subject": "my chill dream",
-        "body": "I dreamt that I was listening to chill beats to relax/study to",
+        "subject": "My dream computer",
+        "body": "Super fast, with lots of RAM",
         "is_nightmare": false,
         "user_id": 1
     }
